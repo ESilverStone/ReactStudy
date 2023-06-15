@@ -1,0 +1,16 @@
+.button-wrapper {
+  display: inline-block;
+}
+
+.button {
+  padding: 10px 20px;
+  border: none;
+  color: var(--text-color);
+  cursor: pointer;
+}
+
+.button.clicked {
+  opacity: 0.8;
+}
+
+/* Additional styles can be added as per your requirements */
